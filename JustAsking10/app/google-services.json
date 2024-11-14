@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "410719093227",
+    "firebase_url": "https://just-asking-20-default-rtdb.firebaseio.com",
+    "project_id": "just-asking-20",
+    "storage_bucket": "just-asking-20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410719093227:android:acff324922717e1383d9ae",
+        "android_client_info": {
+          "package_name": "com.example.justasking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvBa8sxC2sk3i98aiMPfZBGuW2rkumYnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410719093227:android:c9a9ea1687239add83d9ae",
+        "android_client_info": {
+          "package_name": "com.pvc.justasking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvBa8sxC2sk3i98aiMPfZBGuW2rkumYnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
